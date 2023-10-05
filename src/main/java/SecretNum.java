@@ -1,5 +1,10 @@
 import java.util.Scanner;
 
+ /*
+ A program that makes the user guess what
+ the Secret Number (A.K.A sNum) is, with hints.
+  */
+
 public class SecretNum {
     public static void main(String[] args) {
         System.out.println("What is the secret number?");
